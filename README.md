@@ -21,7 +21,7 @@ Send new photo to chat. Use post request. Required query parameters are [`token`
 ### /users/auth/
 ## parameters
 ### token
-Is user private token. You can get a token by [`/users/auth/`](###/users/auth/). Most of the methods requires this token to disallow users to acces other users private data.
+Is user private token. You can get a token by [`/users/auth/`](#/users/auth/). Most of the methods requires this token to disallow users to acces other users private data.
 ### chat_id
 Is an unique id of chat between two users. 
 ### photo_id
